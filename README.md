@@ -101,12 +101,6 @@ Energy_Prediction/
 
 ---
 
-## 📸 Demo Preview
-
-(Add your project screenshot here)
-
----
-
 ## 👨‍💻 Developed By
 
 **Srikanth K**
@@ -118,7 +112,7 @@ Energy_Prediction/
 ## 🔗 Connect with Me
 
 * GitHub: https://github.com/srikanthk-codespace
-* LinkedIn: (Add your LinkedIn link here)
+* LinkedIn: https://www.linkedin.com/in/srikanth-k-377688390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
