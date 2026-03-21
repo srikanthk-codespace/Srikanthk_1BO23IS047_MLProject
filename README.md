@@ -104,7 +104,7 @@ Energy_Prediction/
 ## 👨‍💻 Developed By
 
 **Srikanth K**
-🎓 VTU - CSE (ISE)
+🎓 VTU - Information Science And Engineering(CSE)
 💡 Machine Learning Project
 
 ---
