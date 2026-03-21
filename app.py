@@ -45,3 +45,4 @@ if st.button("⚡ Predict Energy Consumption"):
     # Output
     st.success(f"🔋 Estimated Energy Consumption: {prediction:.2f} kWh")
     st.info("This prediction is based on PCA + Regression model.")
+    st.caption("🚀 Built by Srikanth K | VTU - CSE (ISE) | ML Project")
