@@ -105,6 +105,7 @@ Energy_Prediction/
 
 **Srikanth K**
 🎓 VTU - Information Science And Engineering(CSE)
+Brindavan College Of Engineering.
 
 💡 Machine Learning Project
 
